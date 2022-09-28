@@ -200,3 +200,4 @@ ver todas las opcioens de configuración
 - git help config
 ## If queremos usar una cuenta *LOCAL*
 Cambiaremos todas la opciones anteriores por --local
+### Para poder hacer la colaboración tenemos que usar otra cuenta local en ocasiones.
