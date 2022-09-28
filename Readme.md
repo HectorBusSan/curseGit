@@ -201,4 +201,6 @@ ver todas las opcioens de configuración
 ## If queremos usar una cuenta *LOCAL*
 Cambiaremos todas la opciones anteriores por --local
 ### Para poder hacer la colaboración tenemos que usar otra cuenta local en ocasiones.
+# Referencias:
 Para mas información da click en el [enlace](https://www.youtube.com/watch?v=suzMNqDQiyU)
+[Documentación](https://git-scm.com/doc) y [Libro](https://git-scm.com/book/en/v2)
